@@ -1,0 +1,21 @@
+,driver_number,driver_name,driver_abb,team_name,circuit_name,circuit_country,circuit_temp,circuit_rain,quali_pos,quali_time,race_pos
+1,1,M VERSTAPPEN,VER,Red Bull Racing,Silverstone Circuit,UK,21.473509933774835,0.0,1.0,86.72,1.0
+4,4,L NORRIS,NOR,McLaren,Silverstone Circuit,UK,21.473509933774835,0.0,2.0,86.961,2.0
+44,44,L HAMILTON,HAM,Mercedes,Silverstone Circuit,UK,21.473509933774835,0.0,7.0,87.211,3.0
+81,81,O PIASTRI,PIA,McLaren,Silverstone Circuit,UK,21.473509933774835,0.0,3.0,87.092,4.0
+63,63,G RUSSELL,RUS,Mercedes,Silverstone Circuit,UK,21.473509933774835,0.0,6.0,87.155,5.0
+11,11,S PEREZ,PER,Red Bull Racing,Silverstone Circuit,UK,21.473509933774835,0.0,16.0,89.968,6.0
+14,14,F ALONSO,ALO,Aston Martin,Silverstone Circuit,UK,21.473509933774835,0.0,9.0,87.659,7.0
+23,23,A ALBON,ALB,Williams,Silverstone Circuit,UK,21.473509933774835,0.0,8.0,87.53,8.0
+16,16,C LECLERC,LEC,Ferrari,Silverstone Circuit,UK,21.473509933774835,0.0,4.0,87.136,9.0
+55,55,C SAINZ,SAI,Ferrari,Silverstone Circuit,UK,21.473509933774835,0.0,5.0,87.148,10.0
+2,2,L SARGEANT,SAR,Williams,Silverstone Circuit,UK,21.473509933774835,0.0,14.0,89.031,11.0
+77,77,V BOTTAS,BOT,Alfa Romeo,Silverstone Circuit,UK,21.473509933774835,0.0,15.0,89.798,12.0
+27,27,N HULKENBERG,HUL,Haas F1 Team,Silverstone Circuit,UK,21.473509933774835,0.0,11.0,88.896,13.0
+18,18,L STROLL,STR,Aston Martin,Silverstone Circuit,UK,21.473509933774835,0.0,12.0,88.935,14.0
+24,24,G ZHOU,ZHO,Alfa Romeo,Silverstone Circuit,UK,21.473509933774835,0.0,18.0,90.123,15.0
+22,22,Y TSUNODA,TSU,AlphaTauri,Silverstone Circuit,UK,21.473509933774835,0.0,17.0,90.025,16.0
+21,21,N DE VRIES,DEV,AlphaTauri,Silverstone Circuit,UK,21.473509933774835,0.0,19.0,90.513,17.0
+10,10,P GASLY,GAS,Alpine,Silverstone Circuit,UK,21.473509933774835,0.0,10.0,87.689,18.0
+20,20,K MAGNUSSEN,MAG,Haas F1 Team,Silverstone Circuit,UK,21.473509933774835,0.0,20.0,92.378,19.0
+31,31,E OCON,OCO,Alpine,Silverstone Circuit,UK,21.473509933774835,0.0,13.0,88.956,20.0

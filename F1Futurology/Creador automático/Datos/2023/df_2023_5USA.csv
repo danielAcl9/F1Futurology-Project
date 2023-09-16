@@ -1,0 +1,21 @@
+,driver_number,driver_name,driver_abb,team_name,circuit_name,circuit_country,circuit_temp,circuit_rain,quali_pos,quali_time,race_pos
+1,1,M VERSTAPPEN,VER,Red Bull Racing,Miami International Autodrome,USA,27.11741935483871,0.0,9.0,86.814,1.0
+11,11,S PEREZ,PER,Red Bull Racing,Miami International Autodrome,USA,27.11741935483871,0.0,1.0,86.841,2.0
+14,14,F ALONSO,ALO,Aston Martin,Miami International Autodrome,USA,27.11741935483871,0.0,2.0,87.202,3.0
+63,63,G RUSSELL,RUS,Mercedes,Miami International Autodrome,USA,27.11741935483871,0.0,6.0,87.804,4.0
+55,55,C SAINZ,SAI,Ferrari,Miami International Autodrome,USA,27.11741935483871,0.0,3.0,87.349,5.0
+44,44,L HAMILTON,HAM,Mercedes,Miami International Autodrome,USA,27.11741935483871,0.0,13.0,87.975,6.0
+16,16,C LECLERC,LEC,Ferrari,Miami International Autodrome,USA,27.11741935483871,0.0,7.0,87.861,7.0
+10,10,P GASLY,GAS,Alpine,Miami International Autodrome,USA,27.11741935483871,0.0,5.0,87.786,8.0
+31,31,E OCON,OCO,Alpine,Miami International Autodrome,USA,27.11741935483871,0.0,8.0,87.935,9.0
+20,20,K MAGNUSSEN,MAG,Haas F1 Team,Miami International Autodrome,USA,27.11741935483871,0.0,4.0,87.767,10.0
+22,22,Y TSUNODA,TSU,AlphaTauri,Miami International Autodrome,USA,27.11741935483871,0.0,17.0,88.429,11.0
+18,18,L STROLL,STR,Aston Martin,Miami International Autodrome,USA,27.11741935483871,0.0,18.0,88.476,12.0
+77,77,V BOTTAS,BOT,Alfa Romeo,Miami International Autodrome,USA,27.11741935483871,0.0,10.0,87.564,13.0
+23,23,A ALBON,ALB,Williams,Miami International Autodrome,USA,27.11741935483871,0.0,11.0,87.795,14.0
+27,27,N HULKENBERG,HUL,Haas F1 Team,Miami International Autodrome,USA,27.11741935483871,0.0,12.0,87.903,15.0
+24,24,G ZHOU,ZHO,Alfa Romeo,Miami International Autodrome,USA,27.11741935483871,0.0,14.0,88.091,16.0
+4,4,L NORRIS,NOR,McLaren,Miami International Autodrome,USA,27.11741935483871,0.0,16.0,88.394,17.0
+21,21,N DE VRIES,DEV,AlphaTauri,Miami International Autodrome,USA,27.11741935483871,0.0,15.0,88.395,18.0
+81,81,O PIASTRI,PIA,McLaren,Miami International Autodrome,USA,27.11741935483871,0.0,19.0,88.484,19.0
+2,2,L SARGEANT,SAR,Williams,Miami International Autodrome,USA,27.11741935483871,0.0,20.0,88.577,20.0
