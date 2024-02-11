@@ -1,0 +1,21 @@
+,driver_number,driver_name,driver_abb,team_name,circuit_name,circuit_country,circuit_temp,circuit_rain,quali_pos,quali_time,race_pos
+1,1,M VERSTAPPEN,VER,Red Bull Racing,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,1.0,77.775,1.0
+44,44,L HAMILTON,HAM,Mercedes,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,3.0,78.084,2.0
+11,11,S PEREZ,PER,Red Bull Racing,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,4.0,78.128,3.0
+63,63,G RUSSELL,RUS,Mercedes,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,2.0,78.079,4.0
+55,55,C SAINZ,SAI,Ferrari,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,5.0,78.351,5.0
+16,16,C LECLERC,LEC,Ferrari,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,7.0,78.555,6.0
+3,3,D RICCIARDO,RIC,McLaren,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,11.0,79.325,7.0
+31,31,E OCON,OCO,Alpine,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,10.0,79.01,8.0
+4,4,L NORRIS,NOR,McLaren,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,8.0,78.721,9.0
+77,77,V BOTTAS,BOT,Alfa Romeo,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,6.0,78.401,10.0
+10,10,P GASLY,GAS,AlphaTauri,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,14.0,79.672,11.0
+23,23,A ALBON,ALB,Williams,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,19.0,80.859,12.0
+24,24,G ZHOU,ZHO,Alfa Romeo,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,12.0,79.476,13.0
+5,5,S VETTEL,VET,Aston Martin,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,17.0,80.419,14.0
+18,18,L STROLL,STR,Aston Martin,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,18.0,80.52,15.0
+47,47,M SCHUMACHER,MSC,Haas F1 Team,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,16.0,80.419,16.0
+20,20,K MAGNUSSEN,MAG,Haas F1 Team,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,15.0,79.833,17.0
+6,6,N LATIFI,LAT,Williams,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,20.0,81.167,18.0
+14,14,F ALONSO,ALO,Alpine,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,9.0,78.939,19.0
+22,22,Y TSUNODA,TSU,AlphaTauri,Autódromo Hermanos Rodríguez,Mexico,24.312727272727273,0.0,13.0,79.589,20.0

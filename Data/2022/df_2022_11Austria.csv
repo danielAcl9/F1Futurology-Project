@@ -1,0 +1,21 @@
+,driver_number,driver_name,driver_abb,team_name,circuit_name,circuit_country,circuit_temp,circuit_rain,quali_pos,quali_time,race_pos
+16,16,C LECLERC,LEC,Ferrari,Red Bull Ring,Austria,20.25592105263158,0.0,2.0,65.013,1.0
+1,1,M VERSTAPPEN,VER,Red Bull Racing,Red Bull Ring,Austria,20.25592105263158,0.0,1.0,64.984,2.0
+44,44,L HAMILTON,HAM,Mercedes,Red Bull Ring,Austria,20.25592105263158,0.0,9.0,73.151,3.0
+63,63,G RUSSELL,RUS,Mercedes,Red Bull Ring,Austria,20.25592105263158,0.0,4.0,65.431,4.0
+31,31,E OCON,OCO,Alpine,Red Bull Ring,Austria,20.25592105263158,0.0,5.0,65.726,5.0
+47,47,M SCHUMACHER,MSC,Haas F1 Team,Red Bull Ring,Austria,20.25592105263158,0.0,7.0,66.011,6.0
+4,4,L NORRIS,NOR,McLaren,Red Bull Ring,Austria,20.25592105263158,0.0,15.0,85.847,7.0
+20,20,K MAGNUSSEN,MAG,Haas F1 Team,Red Bull Ring,Austria,20.25592105263158,0.0,6.0,65.879,8.0
+3,3,D RICCIARDO,RIC,McLaren,Red Bull Ring,Austria,20.25592105263158,0.0,16.0,66.613,9.0
+14,14,F ALONSO,ALO,Alpine,Red Bull Ring,Austria,20.25592105263158,0.0,8.0,66.103,10.0
+77,77,V BOTTAS,BOT,Alfa Romeo,Red Bull Ring,Austria,20.25592105263158,0.0,12.0,66.319,11.0
+23,23,A ALBON,ALB,Williams,Red Bull Ring,Austria,20.25592105263158,0.0,11.0,66.23,12.0
+18,18,L STROLL,STR,Aston Martin,Red Bull Ring,Austria,20.25592105263158,0.0,17.0,66.847,13.0
+24,24,G ZHOU,ZHO,Alfa Romeo,Red Bull Ring,Austria,20.25592105263158,0.0,18.0,66.901,14.0
+10,10,P GASLY,GAS,AlphaTauri,Red Bull Ring,Austria,20.25592105263158,0.0,10.0,66.16,15.0
+22,22,Y TSUNODA,TSU,AlphaTauri,Red Bull Ring,Austria,20.25592105263158,0.0,14.0,66.851,16.0
+5,5,S VETTEL,VET,Aston Martin,Red Bull Ring,Austria,20.25592105263158,0.0,20.0,67.083,17.0
+55,55,C SAINZ,SAI,Ferrari,Red Bull Ring,Austria,20.25592105263158,0.0,3.0,65.066,18.0
+6,6,N LATIFI,LAT,Williams,Red Bull Ring,Austria,20.25592105263158,0.0,19.0,67.003,19.0
+11,11,S PEREZ,PER,Red Bull Racing,Red Bull Ring,Austria,20.25592105263158,0.0,13.0,66.458,20.0

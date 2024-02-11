@@ -1,0 +1,21 @@
+,driver_number,driver_name,driver_abb,team_name,circuit_name,circuit_country,circuit_temp,circuit_rain,quali_pos,quali_time,race_pos
+33,33,M VERSTAPPEN,VER,Red Bull Racing,Circuit of the Americas,USA,28.148447204968942,0.0,1.0,92.91,1.0
+44,44,L HAMILTON,HAM,Mercedes,Circuit of the Americas,USA,28.148447204968942,0.0,2.0,93.119,2.0
+11,11,S PEREZ,PER,Red Bull Racing,Circuit of the Americas,USA,28.148447204968942,0.0,3.0,93.134,3.0
+16,16,C LECLERC,LEC,Ferrari,Circuit of the Americas,USA,28.148447204968942,0.0,5.0,93.606,4.0
+3,3,D RICCIARDO,RIC,McLaren,Circuit of the Americas,USA,28.148447204968942,0.0,7.0,93.808,5.0
+77,77,V BOTTAS,BOT,Mercedes,Circuit of the Americas,USA,28.148447204968942,0.0,4.0,93.475,6.0
+55,55,C SAINZ,SAI,Ferrari,Circuit of the Americas,USA,28.148447204968942,0.0,6.0,93.792,7.0
+4,4,L NORRIS,NOR,McLaren,Circuit of the Americas,USA,28.148447204968942,0.0,8.0,93.887,8.0
+22,22,Y TSUNODA,TSU,AlphaTauri,Circuit of the Americas,USA,28.148447204968942,0.0,10.0,94.918,9.0
+5,5,S VETTEL,VET,Aston Martin,Circuit of the Americas,USA,28.148447204968942,0.0,12.0,95.5,10.0
+99,99,A GIOVINAZZI,GIO,Alfa Romeo Racing,Circuit of the Americas,USA,28.148447204968942,0.0,13.0,95.794,11.0
+18,18,L STROLL,STR,Aston Martin,Circuit of the Americas,USA,28.148447204968942,0.0,16.0,95.983,12.0
+7,7,K RAIKKONEN,RAI,Alfa Romeo Racing,Circuit of the Americas,USA,28.148447204968942,0.0,18.0,96.311,13.0
+63,63,G RUSSELL,RUS,Williams,Circuit of the Americas,USA,28.148447204968942,0.0,15.0,95.746,14.0
+6,6,N LATIFI,LAT,Williams,Circuit of the Americas,USA,28.148447204968942,0.0,17.0,95.995,15.0
+47,47,M SCHUMACHER,MSC,Haas F1 Team,Circuit of the Americas,USA,28.148447204968942,0.0,19.0,96.499,16.0
+9,9,N MAZEPIN,MAZ,Haas F1 Team,Circuit of the Americas,USA,28.148447204968942,0.0,20.0,96.796,17.0
+14,14,F ALONSO,ALO,Alpine,Circuit of the Americas,USA,28.148447204968942,0.0,14.0,104.549,18.0
+31,31,E OCON,OCO,Alpine,Circuit of the Americas,USA,28.148447204968942,0.0,11.0,95.377,19.0
+10,10,P GASLY,GAS,AlphaTauri,Circuit of the Americas,USA,28.148447204968942,0.0,9.0,94.118,20.0

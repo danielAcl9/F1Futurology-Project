@@ -1,0 +1,21 @@
+,driver_number,driver_name,driver_abb,team_name,circuit_name,circuit_country,circuit_temp,circuit_rain,quali_pos,quali_time,race_pos
+1,1,M VERSTAPPEN,VER,Red Bull Racing,Circuit of the Americas,USA,29.28529411764706,0.0,3.0,94.448,1.0
+44,44,L HAMILTON,HAM,Mercedes,Circuit of the Americas,USA,29.28529411764706,0.0,5.0,94.947,2.0
+16,16,C LECLERC,LEC,Ferrari,Circuit of the Americas,USA,29.28529411764706,0.0,2.0,94.421,3.0
+11,11,S PEREZ,PER,Red Bull Racing,Circuit of the Americas,USA,29.28529411764706,0.0,4.0,94.645,4.0
+63,63,G RUSSELL,RUS,Mercedes,Circuit of the Americas,USA,29.28529411764706,0.0,6.0,94.988,5.0
+4,4,L NORRIS,NOR,McLaren,Circuit of the Americas,USA,29.28529411764706,0.0,8.0,95.69,6.0
+14,14,F ALONSO,ALO,Alpine,Circuit of the Americas,USA,29.28529411764706,0.0,9.0,95.876,7.0
+5,5,S VETTEL,VET,Aston Martin,Circuit of the Americas,USA,29.28529411764706,0.0,12.0,96.398,8.0
+20,20,K MAGNUSSEN,MAG,Haas F1 Team,Circuit of the Americas,USA,29.28529411764706,0.0,16.0,96.949,9.0
+22,22,Y TSUNODA,TSU,AlphaTauri,Circuit of the Americas,USA,29.28529411764706,0.0,15.0,97.147,10.0
+31,31,E OCON,OCO,Alpine,Circuit of the Americas,USA,29.28529411764706,0.0,18.0,97.068,11.0
+24,24,G ZHOU,ZHO,Alfa Romeo,Circuit of the Americas,USA,29.28529411764706,0.0,14.0,96.97,12.0
+23,23,A ALBON,ALB,Williams,Circuit of the Americas,USA,29.28529411764706,0.0,11.0,96.368,13.0
+10,10,P GASLY,GAS,AlphaTauri,Circuit of the Americas,USA,29.28529411764706,0.0,13.0,96.74,14.0
+47,47,M SCHUMACHER,MSC,Haas F1 Team,Circuit of the Americas,USA,29.28529411764706,0.0,19.0,97.111,15.0
+3,3,D RICCIARDO,RIC,McLaren,Circuit of the Americas,USA,29.28529411764706,0.0,17.0,97.046,16.0
+6,6,N LATIFI,LAT,Williams,Circuit of the Americas,USA,29.28529411764706,0.0,20.0,97.244,17.0
+18,18,L STROLL,STR,Aston Martin,Circuit of the Americas,USA,29.28529411764706,0.0,7.0,95.598,18.0
+77,77,V BOTTAS,BOT,Alfa Romeo,Circuit of the Americas,USA,29.28529411764706,0.0,10.0,96.319,19.0
+55,55,C SAINZ,SAI,Ferrari,Circuit of the Americas,USA,29.28529411764706,0.0,1.0,94.356,20.0

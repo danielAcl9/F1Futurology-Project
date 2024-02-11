@@ -1,0 +1,21 @@
+,driver_number,driver_name,driver_abb,team_name,circuit_name,circuit_country,circuit_temp,circuit_rain,quali_pos,quali_time,race_pos
+1,1,M VERSTAPPEN,VER,Red Bull Racing,Suzuka Circuit,Japan,27.28860759493671,0.0,1.0,88.877,1.0
+4,4,L NORRIS,NOR,McLaren,Suzuka Circuit,Japan,27.28860759493671,0.0,3.0,89.493,2.0
+81,81,O PIASTRI,PIA,McLaren,Suzuka Circuit,Japan,27.28860759493671,0.0,2.0,89.458,3.0
+16,16,C LECLERC,LEC,Ferrari,Suzuka Circuit,Japan,27.28860759493671,0.0,4.0,89.542,4.0
+44,44,L HAMILTON,HAM,Mercedes,Suzuka Circuit,Japan,27.28860759493671,0.0,7.0,89.908,5.0
+55,55,C SAINZ,SAI,Ferrari,Suzuka Circuit,Japan,27.28860759493671,0.0,6.0,89.85,6.0
+63,63,G RUSSELL,RUS,Mercedes,Suzuka Circuit,Japan,27.28860759493671,0.0,8.0,90.219,7.0
+14,14,F ALONSO,ALO,Aston Martin,Suzuka Circuit,Japan,27.28860759493671,0.0,10.0,90.56,8.0
+31,31,E OCON,OCO,Alpine,Suzuka Circuit,Japan,27.28860759493671,0.0,14.0,90.586,9.0
+10,10,P GASLY,GAS,Alpine,Suzuka Circuit,Japan,27.28860759493671,0.0,12.0,90.509,10.0
+40,40,L LAWSON,LAW,AlphaTauri,Suzuka Circuit,Japan,27.28860759493671,0.0,11.0,90.508,11.0
+22,22,Y TSUNODA,TSU,AlphaTauri,Suzuka Circuit,Japan,27.28860759493671,0.0,9.0,90.303,12.0
+24,24,G ZHOU,ZHO,Alfa Romeo,Suzuka Circuit,Japan,27.28860759493671,0.0,19.0,91.398,13.0
+27,27,N HULKENBERG,HUL,Haas F1 Team,Suzuka Circuit,Japan,27.28860759493671,0.0,18.0,91.299,14.0
+20,20,K MAGNUSSEN,MAG,Haas F1 Team,Suzuka Circuit,Japan,27.28860759493671,0.0,15.0,90.665,15.0
+23,23,A ALBON,ALB,Williams,Suzuka Circuit,Japan,27.28860759493671,0.0,13.0,90.537,16.0
+2,2,L SARGEANT,SAR,Williams,Suzuka Circuit,Japan,27.28860759493671,0.0,20.0,,17.0
+18,18,L STROLL,STR,Aston Martin,Suzuka Circuit,Japan,27.28860759493671,0.0,17.0,91.181,18.0
+11,11,S PEREZ,PER,Red Bull Racing,Suzuka Circuit,Japan,27.28860759493671,0.0,5.0,89.65,19.0
+77,77,V BOTTAS,BOT,Alfa Romeo,Suzuka Circuit,Japan,27.28860759493671,0.0,16.0,91.049,20.0

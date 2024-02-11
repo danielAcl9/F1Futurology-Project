@@ -1,0 +1,21 @@
+,driver_number,driver_name,driver_abb,team_name,circuit_name,circuit_country,circuit_temp,circuit_rain,quali_pos,quali_time,race_pos
+3,3,D RICCIARDO,RIC,McLaren,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,5.0,79.995,1.0
+4,4,L NORRIS,NOR,McLaren,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,4.0,79.989,2.0
+77,77,V BOTTAS,BOT,Mercedes,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,1.0,79.555,3.0
+16,16,C LECLERC,LEC,Ferrari,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,8.0,80.51,4.0
+11,11,S PEREZ,PER,Red Bull Racing,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,9.0,80.611,5.0
+55,55,C SAINZ,SAI,Ferrari,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,7.0,80.462,6.0
+18,18,L STROLL,STR,Aston Martin,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,12.0,81.02,7.0
+14,14,F ALONSO,ALO,Alpine,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,13.0,81.069,8.0
+63,63,G RUSSELL,RUS,Williams,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,15.0,81.392,9.0
+31,31,E OCON,OCO,Alpine,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,14.0,81.103,10.0
+6,6,N LATIFI,LAT,Williams,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,16.0,81.925,11.0
+5,5,S VETTEL,VET,Aston Martin,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,11.0,80.913,12.0
+99,99,A GIOVINAZZI,GIO,Alfa Romeo Racing,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,10.0,80.808,13.0
+88,88,R KUBICA,KUB,Alfa Romeo Racing,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,19.0,82.53,14.0
+47,47,M SCHUMACHER,MSC,Haas F1 Team,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,18.0,82.248,15.0
+9,9,N MAZEPIN,MAZ,Haas F1 Team,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,20.0,82.716,16.0
+44,44,L HAMILTON,HAM,Mercedes,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,2.0,79.651,17.0
+33,33,M VERSTAPPEN,VER,Red Bull Racing,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,3.0,79.966,18.0
+10,10,P GASLY,GAS,AlphaTauri,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,6.0,80.26,19.0
+22,22,Y TSUNODA,TSU,AlphaTauri,Autodromo Nazionale di Monza,Italy,28.885234899328864,0.0,17.0,81.973,20.0

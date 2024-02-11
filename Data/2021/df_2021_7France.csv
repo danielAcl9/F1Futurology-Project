@@ -1,0 +1,21 @@
+,driver_number,driver_name,driver_abb,team_name,circuit_name,circuit_country,circuit_temp,circuit_rain,quali_pos,quali_time,race_pos
+33,33,M VERSTAPPEN,VER,Red Bull Racing,Circuit Paul Ricard,France,25.314399999999996,0.0,1.0,89.99,1.0
+44,44,L HAMILTON,HAM,Mercedes,Circuit Paul Ricard,France,25.314399999999996,0.0,2.0,90.248,2.0
+11,11,S PEREZ,PER,Red Bull Racing,Circuit Paul Ricard,France,25.314399999999996,0.0,4.0,90.445,3.0
+77,77,V BOTTAS,BOT,Mercedes,Circuit Paul Ricard,France,25.314399999999996,0.0,3.0,90.376,4.0
+4,4,L NORRIS,NOR,McLaren,Circuit Paul Ricard,France,25.314399999999996,0.0,8.0,91.252,5.0
+3,3,D RICCIARDO,RIC,McLaren,Circuit Paul Ricard,France,25.314399999999996,0.0,10.0,91.382,6.0
+10,10,P GASLY,GAS,AlphaTauri,Circuit Paul Ricard,France,25.314399999999996,0.0,6.0,90.868,7.0
+14,14,F ALONSO,ALO,Alpine,Circuit Paul Ricard,France,25.314399999999996,0.0,9.0,91.34,8.0
+5,5,S VETTEL,VET,Aston Martin,Circuit Paul Ricard,France,25.314399999999996,0.0,12.0,91.767,9.0
+18,18,L STROLL,STR,Aston Martin,Circuit Paul Ricard,France,25.314399999999996,0.0,19.0,,10.0
+55,55,C SAINZ,SAI,Ferrari,Circuit Paul Ricard,France,25.314399999999996,0.0,5.0,90.84,11.0
+63,63,G RUSSELL,RUS,Williams,Circuit Paul Ricard,France,25.314399999999996,0.0,14.0,92.065,12.0
+22,22,Y TSUNODA,TSU,AlphaTauri,Circuit Paul Ricard,France,25.314399999999996,0.0,20.0,,13.0
+31,31,E OCON,OCO,Alpine,Circuit Paul Ricard,France,25.314399999999996,0.0,11.0,91.736,14.0
+99,99,A GIOVINAZZI,GIO,Alfa Romeo Racing,Circuit Paul Ricard,France,25.314399999999996,0.0,13.0,91.813,15.0
+16,16,C LECLERC,LEC,Ferrari,Circuit Paul Ricard,France,25.314399999999996,0.0,7.0,90.987,16.0
+7,7,K RAIKKONEN,RAI,Alfa Romeo Racing,Circuit Paul Ricard,France,25.314399999999996,0.0,17.0,93.354,17.0
+6,6,N LATIFI,LAT,Williams,Circuit Paul Ricard,France,25.314399999999996,0.0,16.0,93.062,18.0
+47,47,M SCHUMACHER,MSC,Haas F1 Team,Circuit Paul Ricard,France,25.314399999999996,0.0,15.0,92.942,19.0
+9,9,N MAZEPIN,MAZ,Haas F1 Team,Circuit Paul Ricard,France,25.314399999999996,0.0,18.0,93.554,20.0
